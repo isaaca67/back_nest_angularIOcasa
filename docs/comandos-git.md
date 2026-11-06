@@ -6,3 +6,17 @@ git remote add origin https://github.com/isaaca67/back_nest_angularIOcasa.git
 ````
 git init
 ````
+# arrnacamos proyecto
+````
+npm run start dev
+````
+# modulos y recursos 
+````
+est g mo modules/auth
+g res modules/users
+````
+# controles y servicios
+````
+nest g co modules/auth  
+nest g co modules/auth  
+````
